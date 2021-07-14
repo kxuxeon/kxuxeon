@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leeky&fontAlign=80&fontAlignY=40&color=gradient)
 
-<h3 align="center">🙋‍♂️ Hi there! 🙋‍♀️<br> I'm kyuyeon Lee, want to be back-end developer.✨  </h3>
+<h3 align="center">🙋‍♂️ Hi there! 🙋‍♀️<br> I'm kyuyeon Lee, want to be a back-end developer.✨  </h3>
 <h1 align="center">🎯 TECH STACK 🎯</h1>
 <div align="center">
 <h3>📕 Frequently Used 📕</h3>
@@ -29,6 +29,8 @@
 <br>
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leeky0615)](https://github.com/anuraghazra/github-readme-stats)
+![Leeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeky0615&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeky0615&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbdus7174)](https://solved.ac/rbdus7174/)
+</div>
