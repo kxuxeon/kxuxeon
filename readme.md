@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leeky&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=kxuxeon&fontAlign=80&fontAlignY=40&color=gradient)
 
 <h3 align="center">🙋‍♂️ Hi there! 🙋‍♀️<br> I'm Kyuyeon Lee, want to be a back-end developer.✨  </h3>
 <h1 align="center">🎯 TECH STACK 🎯</h1>
