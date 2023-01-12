@@ -22,7 +22,7 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <br><br><br>
 
-![Leeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxuxeon&show_icons=true&theme=gruvbox)
+![Kxuxeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxuxeon&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxuxeon&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbdus7174)](https://solved.ac/rbdus7174/)
 </div>
